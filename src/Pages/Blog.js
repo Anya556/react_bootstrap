@@ -9,7 +9,8 @@ export default class Blog extends Component {
     return (
       <div>
         <div>
-          <h1 className = "mt-5">My blog</h1>
+          <h1 className="text-center mt-5 mb-5">My blog</h1>
+          <p></p>
         </div>
         <Card>
           <div className="card-group">
